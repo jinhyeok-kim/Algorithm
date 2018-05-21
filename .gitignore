@@ -1,8 +1,5 @@
 # Created by .ignore support plugin (hsz.mobi)
 ### Java template
-# Compiled class file
-Java/plus123/out/production/plus123/Main.class
-
 # Log file
 *.log
 
@@ -24,3 +21,6 @@ Java/plus123/out/production/plus123/Main.class
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 
+#..
+.idea/
+*.iml
