@@ -1,7 +1,7 @@
-#Algorithm
+# Algorithm
 
-##Java
+## Java
 
-###Baekjoon Online Judge
+### Baekjoon Online Judge
 
-9084 µ¿Àü
+9084
