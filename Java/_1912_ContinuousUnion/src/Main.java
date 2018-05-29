@@ -14,22 +14,14 @@ public class Main {
         }
 
         S[0] = A[0];
-        int max = 0;
+        int max = A[0];
         for(int i = 1; i < N; i++){
-            if(i == 1){
-                S[i] = Max(A[i], A[i] + S[i-1]);
-            }
-            else {
-                S[i] = Max(A[i], A[i] + S[i - 1], A[i] + A[i - 1]);
-            }
-            if(S[i]>max){
-                max = S[i];
-            }
+
+            S[i] = Max(A[i], A[i] + S[i-1]);
+            max = Max(max, S[i]);
         }
 
         System.out.println(max);
-
-
 
     }
 
@@ -40,11 +32,5 @@ public class Main {
         else{
             return b;
         }
-    }
-
-    static int Max(int a, int b, int c) {
-//        return (a>b)&&(a>c)?a:(c>b?c:b);
-        int result2 = (a>b)? a: b;
-        return c > result2? c: result2;
     }
 }
