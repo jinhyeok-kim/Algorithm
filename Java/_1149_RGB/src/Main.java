@@ -26,7 +26,6 @@ public class Main {
             dp[1][i] = min(house[i][1] + dp[0][i-1], house[i][1] + dp[2][i-1]);
             dp[2][i] = min(house[i][2]+ dp[0][i-1], house[i][2]+ dp[1][i-1]) ;
         }
-
         System.out.println(min(dp[0][N-1], dp[1][N-1], dp[2][N-1]));
 
 
