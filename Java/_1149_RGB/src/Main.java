@@ -9,7 +9,7 @@ public class Main {
 
         int[][] house = new int[N][3];
 
-        int[] dp = new int[N];
+        int[][] dp = new int[3][N];
 
         for(int n = 0; n < N; n++){
             for(int i =0; i < 3; i++){
@@ -17,22 +17,18 @@ public class Main {
             }
         }
 
-        int idx = index(house[0][0], house[0][1], house[0][2],
-                dp[0] = min(house[0][0], house[0][1], house[0][2]));
+        dp[0][0] = house[0][0];
+        dp[1][0] = house[0][1];
+        dp[2][0] = house[0][2];
 
         for(int i = 1; i < N; i++){
-            if (idx == index(house[i][0], house[i][1], house[i][2],
-                    dp[i] = min(house[i][0], house[i][1], house[i][2])))
-            {
-                house[i][idx] = 10000;
-                idx = index(house[i][0], house[i][1], house[i][2],
-                        dp[i] = min(house[i][0], house[i][1], house[i][2]));
-            }
-
-            dp[i] += dp[i-1];
+            dp[0][i] = min(house[i][0]+ dp[1][i-1], house[i][0]+ dp[2][i-1]) ;
+            dp[1][i] = min(house[i][1] + dp[0][i-1], house[i][1] + dp[2][i-1]);
+            dp[2][i] = min(house[i][2]+ dp[0][i-1], house[i][2]+ dp[1][i-1]) ;
         }
 
-        System.out.println(dp[N-1]);
+        System.out.println(min(dp[0][N-1], dp[1][N-1], dp[2][N-1]));
+
 
     }
 
@@ -50,15 +46,4 @@ public class Main {
         }
     }
 
-    static int index(int a, int b, int c, int value){
-        if(a == value){
-            return 0;
-        }
-        else if( b == value){
-            return 1;
-        }
-        else{
-            return 2;
-        }
-    }
 }
