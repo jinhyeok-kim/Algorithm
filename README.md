@@ -1,5 +1,7 @@
 # Algorithm
 
+## Total : 17
+
 ## Java
 
 ### Baekjoon Online Judge : 16
@@ -19,4 +21,10 @@
 2579 계단 오르기     
 9084 동전  
 9095 1,2,3 더하기  
-10809 알파벳 찾기  
+10809 알파벳 찾기 
+
+## C++
+
+## Baekjoon Online Judge : 1
+
+10250 ACM 호텔  
