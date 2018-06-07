@@ -1,10 +1,10 @@
 # Algorithm
 
-## Total : 19
+## Total : 20
 
 ## Java
 
-### Baekjoon Online Judge : 17
+### Baekjoon Online Judge : 18
 
 1003 피보나치 함수  
 1064 한수   
@@ -23,6 +23,7 @@
 9084 동전  
 9095 1,2,3 더하기  
 10809 알파벳 찾기 
+15802 타노스  
 
 ## C++
 
