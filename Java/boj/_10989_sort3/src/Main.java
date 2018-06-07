@@ -17,7 +17,7 @@ public class Main {
         for(long i = 0; i < N; i++){
             numArray[Integer.parseInt(br.readLine())]++;
         }
-        
+
         br.close();
 
         for(int i = 0; i < 10001; i++){
