@@ -1,10 +1,10 @@
 # Algorithm
 
-## Total : 24
+## Total : 25
 
 ## Java
 
-### Baekjoon Online Judge : 22
+### Baekjoon Online Judge : 23
 
 1003 피보나치 함수  
 1064 한수   
@@ -13,6 +13,7 @@
 1157 단어 공부  
 1316 그룹 단어 체커  
 1463 1로 만들기  
+1546 평균  
 1912 연속합  
 1932 정수 삼각형  
 1026 보물  
