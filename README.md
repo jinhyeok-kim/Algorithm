@@ -1,13 +1,14 @@
 # Algorithm
 
-## Total : 21
+## Total : 22
 
 ## Java
 
-### Baekjoon Online Judge : 19
+### Baekjoon Online Judge : 20
 
 1003 피보나치 함수  
 1064 한수   
+1110 더하기 사이클  
 1149 RGB 거리**    
 1463 1로 만들기  
 1912 연속합  
