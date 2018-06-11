@@ -13,18 +13,23 @@ public class Main {
         int C = Integer.parseInt(st.nextToken());
 
         if(A>B){
-            if(A>C){
-                System.out.println(A);
-            }
-            else if(C>B){
-                System.out.println(C);
-            }
-        }else if(B>C){
-            System.out.println(B);
-        }else{
-            System.out.println(C);
+            middle(A, B, C);
+        }else if(B>=A) {
+            middle(B, A, C);
         }
 
 
+    }
+
+    private static void middle(int a, int b, int c) {
+        if(b > c){
+            System.out.println(b);
+        }
+        else if(c > a){
+            System.out.println(a);
+        }
+        else{
+            System.out.println(c);
+        }
     }
 }
