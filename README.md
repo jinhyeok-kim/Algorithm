@@ -1,10 +1,10 @@
 # Algorithm
 
-## Total : 34
+## Total : 35
 
 ## Java
 
-### Baekjoon Online Judge : 32
+### Baekjoon Online Judge : 33
 
 1003 피보나치 함수  
 1064 한수   
@@ -32,6 +32,7 @@
 2579 계단 오르기     
 2908 상수  
 2920 음계  
+8393 합  
 9084 동전  
 9095 1,2,3 더하기  
 10809 알파벳 찾기  
