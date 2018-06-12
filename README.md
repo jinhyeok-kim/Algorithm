@@ -1,10 +1,10 @@
 # Algorithm
 
-## Total : 41
+## Total : 42
 
 ## Java
 
-### Baekjoon Online Judge : 39
+### Baekjoon Online Judge : 40
 
 1003 피보나치 함수  
 1064 한수   
@@ -40,6 +40,7 @@
 9095 1,2,3 더하기  
 10809 알파벳 찾기  
 10817 세 수   
+10828 스택  
 11720 숫자의 합  
 11721 열 개씩 끊어 출력하기  
 15802 타노스  
