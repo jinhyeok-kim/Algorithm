@@ -1,10 +1,10 @@
 # Algorithm
 
-## Total : 39
+## Total : 40
 
 ## Java
 
-### Baekjoon Online Judge : 37
+### Baekjoon Online Judge : 38
 
 1003 피보나치 함수  
 1064 한수   
@@ -16,6 +16,7 @@
 1463 1로 만들기  
 1546 평균  
 1912 연속합  
+1920 수 찾기  
 1932 정수 삼각형  
 1026 보물  
 2139 이친수  
