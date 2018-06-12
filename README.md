@@ -1,10 +1,10 @@
 # Algorithm
 
-## Total : 40
+## Total : 41
 
 ## Java
 
-### Baekjoon Online Judge : 38
+### Baekjoon Online Judge : 39
 
 1003 피보나치 함수  
 1064 한수   
@@ -31,6 +31,7 @@
 2446 별찍기 - 9  
 2750 수 정렬하기
 2555 생일 출력하기  
+2562 최대값  
 2579 계단 오르기     
 2908 상수  
 2920 음계  
