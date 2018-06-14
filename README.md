@@ -1,10 +1,10 @@
 # Algorithm
 
-## Total : 49
+## Total : 50
 
 ## Java
 
-### Baekjoon Online Judge : 47
+### Baekjoon Online Judge : 48
 
 1003 피보나치 함수  
 1064 한수   
@@ -35,6 +35,7 @@
 2579 계단 오르기  
 2675 문자열 반복  
 2750 수 정렬하기  
+2751 수 정렬하기 2  
 2908 상수  
 2920 음계  
 4344 평균은 넘겠지  
