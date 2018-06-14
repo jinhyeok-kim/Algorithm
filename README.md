@@ -1,10 +1,10 @@
 # Algorithm
 
-## Total : 51
+## Total : 52
 
 ## Java
 
-### Baekjoon Online Judge : 49
+### Baekjoon Online Judge : 50
 
 1003 피보나치 함수  
 1064 한수   
@@ -40,6 +40,7 @@
 2920 음계  
 2960 에라토스테네스의 체  
 4344 평균은 넘겠지  
+4673 셀프넘버   
 8393 합  
 8958 OX퀴즈  
 9084 동전  
