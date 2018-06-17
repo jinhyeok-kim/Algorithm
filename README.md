@@ -1,6 +1,6 @@
 # Algorithm
 
-## Total : 56
+## Total : 57
 
 ## Java
 
@@ -62,7 +62,8 @@
 
 ## C++
 
-## Baekjoon Online Judge : 2
+## Baekjoon Online Judge : 3
 
+1475 방번호   
 1924 2007년   
 10250 ACM 호텔  
