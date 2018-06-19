@@ -9,17 +9,29 @@ public class Main {
 
         String S = br.readLine();
 
+        int[] alpha = new int[26];
         char[] word = S.toCharArray();
+        for(int i =0; i< alpha.length; i++){
 
-        //A : 65 Z: 90
-
-        for(int i = 0; i < word.length; i++){
-            switch((int)word[i]){
-
-
+            if((i >= 15 && i<= 18)){
+                alpha[i] = 8;
             }
-
+            else if(i>= 19 && i<= 21){
+                alpha[i] = 9;
+            }
+            else if((i >= 22)){
+                alpha[i]= 10;
+            }else{
+            alpha[i] = (i/3)+3;
+            }
         }
+
+        int time = 0;
+        for(int i = 0; i < word.length; i++){
+            time += alpha[word[i]-65];
+        }
+
+        System.out.println(time);
 
 
         }
