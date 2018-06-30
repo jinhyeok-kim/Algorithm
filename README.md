@@ -1,6 +1,6 @@
 # Algorithm
 
-## Total : 67
+## Total : 68
 
 ## Java
 
@@ -71,9 +71,10 @@
 
 ## C++
 
-## Baekjoon Online Judge : 4
+## Baekjoon Online Judge : 5
 
 1011 Fly me to the Alpha Centauri   
 1475 방번호   
 1924 2007년   
+2775 부녀회장이 퇼테야   
 10250 ACM 호텔  
