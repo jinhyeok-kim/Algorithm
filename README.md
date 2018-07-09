@@ -1,10 +1,10 @@
 # Algorithm
 
-## Total : 69
+## Total : 70
 
 ## Java
 
-### Baekjoon Online Judge : 64
+### Baekjoon Online Judge : 65
 
 1003 피보나치 함수   
 1026 보물   
@@ -39,6 +39,7 @@
 2577 숫자의 개수  
 2579 계단 오르기  
 2675 문자열 반복  
+2747 피보나치 수    
 2750 수 정렬하기  
 2751 수 정렬하기 2  
 2908 상수  
