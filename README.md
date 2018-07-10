@@ -1,10 +1,10 @@
 # Algorithm
 
-## Total : 71
+## Total : 72
 
 ## Java
 
-### Baekjoon Online Judge : 66
+### Baekjoon Online Judge : 67
 
 1003 피보나치 함수   
 1026 보물   
@@ -34,6 +34,7 @@
 2440 별찍기 - 3  
 2441 별찍기 - 4  
 2446 별찍기 - 9  
+2455 지능형 기차    
 2555 생일 출력하기  
 2562 최대값  
 2577 숫자의 개수  
