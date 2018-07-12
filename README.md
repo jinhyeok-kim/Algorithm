@@ -1,10 +1,11 @@
 # Algorithm
 
-## Total : 74
+## Total : 75
+
 
 ## Java
 
-### Baekjoon Online Judge : 69
+### Baekjoon Online Judge : 70
 
 1003 피보나치 함수   
 1026 보물   
@@ -58,6 +59,7 @@
 10039 평균 점수  
 10809 알파벳 찾기  
 10817 세 수   
+10820 문자열 분석    
 10828 스택  
 10950 A+B - 3   
 10951 A+B - 4    
