@@ -1,11 +1,11 @@
 # Algorithm
 
-## Total : 76
+## Total : 77
 
 
 ## Java
 
-### Baekjoon Online Judge : 71
+### Baekjoon Online Judge : 72
 
 1003 피보나치 함수   
 1026 보물   
@@ -38,6 +38,7 @@
 2455 지능형 기차    
 2555 생일 출력하기  
 2562 최대값  
+2576 홀수   
 2577 숫자의 개수  
 2579 계단 오르기  
 2587 대표값2    
