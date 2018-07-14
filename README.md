@@ -1,11 +1,11 @@
 # Algorithm
 
-## Total : 77
+## Total : 78
 
 
 ## Java
 
-### Baekjoon Online Judge : 72
+### Baekjoon Online Judge : 73
 
 1003 피보나치 함수   
 1026 보물   
@@ -68,6 +68,7 @@
 10952 A+B - 5   
 10953 A+B - 6   
 11021 A+B - 7   
+11022 A+B - 8    
 11720 숫자의 합    
 11721 열 개씩 끊어 출력하기  
 13241 최소공배수   
