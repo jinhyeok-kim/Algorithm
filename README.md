@@ -1,11 +1,11 @@
 # Algorithm
 
-## Total : 80
+## Total : 81
 
 
 ## Java
 
-### Baekjoon Online Judge : 75
+### Baekjoon Online Judge : 76
 
 1003 피보나치 함수   
 1026 보물   
@@ -69,6 +69,7 @@
 10951 A+B - 4    
 10952 A+B - 5   
 10953 A+B - 6   
+10991 별 찍기 - 16    
 11021 A+B - 7   
 11022 A+B - 8    
 11720 숫자의 합    
