@@ -1,6 +1,6 @@
 # Algorithm
 
-## Total : 81
+## Total : 82
 
 
 ## Java
@@ -91,4 +91,10 @@
 1475 방번호   
 1924 2007년   
 2775 부녀회장이 퇼테야   
-10250 ACM 호텔  
+10250 ACM 호텔
+
+## Else
+
+## Baekjoon Online Judge : 1
+
+5338 마이크로소프트 로고    
