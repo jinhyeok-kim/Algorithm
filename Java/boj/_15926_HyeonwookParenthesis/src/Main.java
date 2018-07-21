@@ -10,7 +10,7 @@ public class Main {
 
         char[] sentence = br.readLine().toCharArray();
 
-        
+
 
 
     }
