@@ -1,11 +1,11 @@
 # Algorithm
 
-## Total : 83
+## Total : 84
 
 
 ## Java
 
-### Baekjoon Online Judge : 76
+### Baekjoon Online Judge : 77
 
 1003 피보나치 함수   
 1026 보물   
@@ -50,6 +50,7 @@
 2751 수 정렬하기 2  
 2908 상수  
 2920 음계  
+2941 크로아티아 알파벳     
 2960 에라토스테네스의 체  
 4344 평균은 넘겠지  
 4673 셀프넘버   
