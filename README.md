@@ -1,11 +1,11 @@
 # Algorithm
 
-## Total : 84
+## Total : 85
 
 
 ## Java
 
-### Baekjoon Online Judge : 77
+### Baekjoon Online Judge : 78
 
 1003 피보나치 함수   
 1026 보물   
@@ -26,6 +26,7 @@
 1920 수 찾기  
 1932 정수 삼각형  
 1978 소수 찾기   
+2108 통계학    
 2139 이친수  
 2163 초콜릿 자르기   
 2292 벌집  
