@@ -1,11 +1,11 @@
 # Algorithm
 
-## Total : 86
+## Total : 87
 
 
 ## Java
 
-### Baekjoon Online Judge : 79
+### Baekjoon Online Judge : 80
 
 1003 피보나치 함수   
 1026 보물   
@@ -79,6 +79,7 @@
 11721 열 개씩 끊어 출력하기  
 13241 최소공배수   
 14405 피카츄   
+14918 더하기   
 15552 빠른 A+B   
 15733 나는 누구인가   
 15802 타노스  
