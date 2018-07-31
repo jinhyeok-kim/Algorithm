@@ -21,5 +21,6 @@ public class Main {
         for(int j = 0; j <sort.length;j++) {
             System.out.print(sort[j] + " ");
         }
+
         }
 }
