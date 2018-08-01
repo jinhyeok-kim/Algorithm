@@ -1,11 +1,11 @@
 # Algorithm
 
-## Total : 90
+## Total : 91
 
 
 ## Java
 
-### Baekjoon Online Judge : 83
+### Baekjoon Online Judge : 84
 
 1003 피보나치 함수   
 1026 보물   
@@ -60,6 +60,7 @@
 5543 상근날드   
 5597 과제 안 내신 분..?    
 5622 다이얼   
+5988 홀수 혹은 짝수   
 8393 합  
 8958 OX퀴즈  
 9084 동전  
