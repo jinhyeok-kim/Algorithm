@@ -1,11 +1,11 @@
 # Algorithm
 
-## Total : 93
+## Total : 94
 
 
 ## Java
 
-### Baekjoon Online Judge : 86
+### Baekjoon Online Judge : 87
 
 1003 피보나치 함수   
 1026 보물   
@@ -17,6 +17,7 @@
 1181 단어 정렬**   
 1193 분수 찾기   
 1237 정ㅋ벅ㅋ  
+1264 모음의 개수     
 1316 그룹 단어 체커 
 1373 2진수 8진수    
 1427 소트인사이드!  
