@@ -1,11 +1,11 @@
 # Algorithm
 
-## Total : 94
+## Total : 95
 
 
 ## Java
 
-### Baekjoon Online Judge : 87
+### Baekjoon Online Judge : 88
 
 1003 피보나치 함수   
 1026 보물   
@@ -23,6 +23,7 @@
 1427 소트인사이드!  
 1463 1로 만들기  
 1546 평균  
+1547 공       
 1550 16진수    
 1912 연속합  
 1920 수 찾기  
