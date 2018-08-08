@@ -1,11 +1,11 @@
 # Algorithm
 
-## Total : 95
+## Total : 96
 
 
 ## Java
 
-### Baekjoon Online Judge : 88
+### Baekjoon Online Judge : 89
 
 1003 피보나치 함수   
 1026 보물   
@@ -25,6 +25,7 @@
 1546 평균  
 1547 공       
 1550 16진수    
+1834 나머지와 몫이 같은 수     
 1912 연속합  
 1920 수 찾기  
 1932 정수 삼각형  
