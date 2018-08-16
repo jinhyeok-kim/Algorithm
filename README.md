@@ -1,11 +1,11 @@
 # Algorithm
 
-## Total : 102
+## Total : 103
 
 
 ## Java
 
-### Baekjoon Online Judge : 95
+### Baekjoon Online Judge : 96
 
 1003 피보나치 함수   
 1026 보물   
@@ -79,6 +79,7 @@
 10817 세 수   
 10820 문자열 분석    
 10828 스택    
+10872 팩토리얼      
 10926 ??!     
 10950 A+B - 3   
 10951 A+B - 4    
