@@ -1,11 +1,11 @@
 # Algorithm
 
-## Total : 103
+## Total : 104
 
 
 ## Java
 
-### Baekjoon Online Judge : 96
+### Baekjoon Online Judge : 97
 
 1003 피보나치 함수   
 1026 보물   
@@ -45,6 +45,7 @@
 2530 인공지능 시계   
 2555 생일 출력하기  
 2562 최대값  
+2475 검증수    
 2576 홀수   
 2577 숫자의 개수  
 2579 계단 오르기  
