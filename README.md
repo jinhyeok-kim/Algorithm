@@ -1,11 +1,11 @@
 # Algorithm
 
-## Total : 107
+## Total : 108
 
 
 ## Java
 
-### Baekjoon Online Judge : 100
+### Baekjoon Online Judge : 101
 
 1003 피보나치 함수   
 1026 보물   
@@ -47,6 +47,7 @@
 2562 최대값  
 2475 검증수    
 2476 주사위 게임     
+2490 윷놀이     
 2576 홀수   
 2577 숫자의 개수  
 2579 계단 오르기  
