@@ -1,11 +1,11 @@
 # Algorithm
 
-## Total : 111
+## Total : 112
 
 
 ## Java
 
-### Baekjoon Online Judge : 104
+### Baekjoon Online Judge : 105
 
 1003 피보나치 함수   
 1026 보물   
@@ -61,6 +61,7 @@
 2752 세수정렬     
 2754 학점계산     
 2782 유학금지     
+2822 점수 계산     
 2908 상수  
 2920 음계  
 2941 크로아티아 알파벳     
