@@ -1,11 +1,11 @@
 # Algorithm
 
-## Total : 112
+## Total : 113
 
 
 ## Java
 
-### Baekjoon Online Judge : 105
+### Baekjoon Online Judge : 106
 
 1003 피보나치 함수   
 1026 보물   
@@ -71,6 +71,7 @@
 4344 평균은 넘겠지  
 4458 첫 글자를 대문자로    
 4673 셀프넘버   
+5063 TGN      
 5543 상근날드   
 5597 과제 안 내신 분..?    
 5622 다이얼   
