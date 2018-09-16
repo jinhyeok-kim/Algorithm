@@ -1,11 +1,11 @@
 # Algorithm
 
-## Total : 127
+## Total : 128
 
 
 ## Java
 
-### Baekjoon Online Judge : 120
+### Baekjoon Online Judge : 121
 
 1003 피보나치 함수   
 1026 보물   
@@ -110,6 +110,7 @@
 11006 남욱이의 닭장     
 11021 A+B - 7   
 11022 A+B - 8     
+11586 지영 공주님의 마법 거울      
 11655 ROT13     
 11720 숫자의 합    
 11721 열 개씩 끊어 출력하기  
