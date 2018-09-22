@@ -2,7 +2,6 @@
 
 ## Total : 133
 
-
 ## Java
 
 ### Baekjoon Online Judge : 126
