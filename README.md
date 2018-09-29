@@ -1,10 +1,10 @@
 # Algorithm
 
-## Total : 137
+## Total : 138
 
 ## Java
 
-### Baekjoon Online Judge : 130
+### Baekjoon Online Judge : 131
 
 1003 피보나치 함수   
 1026 보물   
@@ -93,7 +93,8 @@
 5717 상근이의 친구들     
 5988 홀수 혹은 짝수   
 8393 합  
-8958 OX퀴즈  
+8958 OX퀴즈     
+9076 점수 집계      
 9084 동전  
 9095 1,2,3 더하기  
 9316 Hello Judge   
