@@ -1,15 +1,16 @@
 # Algorithm
 
-## Total : 146
+## Total : 147
 
 ## Java
 
-### Baekjoon Online Judge : 139
+### Baekjoon Online Judge : 140
 
 1003 피보나치 함수   
 1026 보물   
 1064 한수   
-1085 직사각형에서 탈출   
+1085 직사각형에서 탈출    
+1094 막대기      
 1110 더하기 사이클  
 1149 RGB 거리**    
 1157 단어 공부  
