@@ -1,10 +1,10 @@
 # Algorithm
 
-## Total : 149
+## Total : 150
 
 ## Java
 
-### Baekjoon Online Judge : 142
+### Baekjoon Online Judge : 143
 
 1003 피보나치 함수   
 1026 보물   
@@ -87,7 +87,8 @@
 4493 가위 바위 보?          
 5604 배수 찾기     
 4673 셀프넘버     
-4880 다음수      
+4880 다음수       
+5032 탄산 음료     
 5054 주차의 신     
 5063 TGN      
 5543 상근날드   
