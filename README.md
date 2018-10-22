@@ -1,10 +1,10 @@
 # Algorithm
 
-## Total : 157
+## Total : 158
 
 ## Java
 
-### Baekjoon Online Judge : 150
+### Baekjoon Online Judge : 151
 
 1003 피보나치 함수   
 1026 보물   
@@ -107,6 +107,7 @@
 9095 1,2,3 더하기  
 9316 Hello Judge   
 10039 평균 점수    
+10093 숫자      
 10101 삼각형 외우기     
 10102 개표      
 10156 과자     
