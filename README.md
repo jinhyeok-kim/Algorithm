@@ -1,10 +1,10 @@
 # Algorithm
 
-## Total : 158
+## Total : 159
 
 ## Java
 
-### Baekjoon Online Judge : 151
+### Baekjoon Online Judge : 152
 
 1003 피보나치 함수   
 1026 보물   
@@ -153,6 +153,7 @@
 15860 연세대학교    
 15873 공백 없는 A+B     
 15962 새로운 시작     
+15963 CASIO      
 16170 오늘의 날짜는?       
 16171 나는 친구가 적다(Small)     
 
