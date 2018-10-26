@@ -1,10 +1,10 @@
 # Algorithm
 
-## Total : 161
+## Total : 162
 
 ## Java
 
-### Baekjoon Online Judge : 154
+### Baekjoon Online Judge : 155
 
 1003 피보나치 함수   
 1026 보물   
@@ -120,7 +120,8 @@
 10809 알파벳 찾기  
 10817 세 수   
 10820 문자열 분석    
-10828 스택    
+10828 스택     
+10845 큐       
 10872 팩토리얼      
 10886 0 = not cute / 1 = cute     
 10926 ??!     
