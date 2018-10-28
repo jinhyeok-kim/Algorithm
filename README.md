@@ -1,10 +1,10 @@
 # Algorithm
 
-## Total : 162
+## Total : 163
 
 ## Java
 
-### Baekjoon Online Judge : 155
+### Baekjoon Online Judge : 156
 
 1003 피보나치 함수   
 1026 보물   
@@ -72,6 +72,7 @@
 2822 점수 계산     
 2845 파티가 끝나고 난 뒤      
 2857 FBI      
+2884 알람 시계     
 2902 KMP는 왜 KMP일까?      
 2908 상수     
 2914 저작권       
