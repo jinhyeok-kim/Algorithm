@@ -18,15 +18,18 @@ public class Main {
         String[] student = br.readLine().split(" ");
 
         for(int i = student.length-1; i >= 0; i--){
-            int count = i;
-            for(int j = 0; j < count; j++){
-                if(line[Integer.parseInt(student[j])] != -1){
+
+            int count = Integer.parseInt(student[i]);
+            for(int j = 0; j <= count; j++){
+                if(line[j] != -1){
                     count++;
                 }
             }
-            line[Integer.parseInt(student[i])] = i;
+            line[count] = i+1;
+        }
 
-
+        for(int i = line.length-1; i >= 0; i--){
+            System.out.print(line[i] + " ");
         }
 
 
