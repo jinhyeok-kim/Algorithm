@@ -172,7 +172,6 @@
 16170 오늘의 날짜는?       
 16171 나는 친구가 적다(Small)     
 
-
 ## C++
 
 ## Baekjoon Online Judge : 5
