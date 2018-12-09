@@ -1,10 +1,10 @@
 # Algorithm
 
-## Total : 187
+## Total : 188
 
 ## Java
 
-### Baekjoon Online Judge : 180
+### Baekjoon Online Judge : 181
 
 1003 피보나치 함수   
 1026 보물   
@@ -98,7 +98,8 @@
 3046 R2     
 3047 ABC       
 3058 짝수를 찾아라       
-3059 등장하지 않는 문자의 합      
+3059 등장하지 않는 문자의 합    
+4246 To and Fro     
 4344 평균은 넘겠지  
 4458 첫 글자를 대문자로     
 4493 가위 바위 보?          
