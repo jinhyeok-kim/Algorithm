@@ -8,6 +8,7 @@ public class Main {
     static ArrayList<Integer>[] computer;
     static boolean[] isvisited;
     static BufferedWriter bw;
+    static int count = -1;
 
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
@@ -35,12 +36,23 @@ public class Main {
 
         isvisited = new boolean[N+1];
 
-
-        System.out.println(bfs(1));
+        dfs(1);
+        System.out.println(count);
 
     }
 
-    private static int bfs(int v) throws IOException{
+    private static void dfs(int v) {
+        if(isvisited[v]) return;
+        isvisited[v] =true;
+        count++;
+
+        for(int i : computer[v]){
+            dfs(i);
+        }
+
+    }
+
+    private static int bfs(int v){
         Queue<Integer> q = new LinkedList<>();
         int count = -1;
         q.add(v);
@@ -48,7 +60,6 @@ public class Main {
 
         while(!q.isEmpty()){
             v = q.poll();
-//            bw.write(v + " ");
             count++;
             for(int i : computer[v]){
                 if(!isvisited[i]){
