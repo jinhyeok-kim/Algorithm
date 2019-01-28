@@ -1,10 +1,10 @@
 # Algorithm
 
-## Total : 192
+## Total : 193
 
 ## Java
 
-### Baekjoon Online Judge : 184
+### Baekjoon Online Judge : 185
 
 1000 A+B      
 1001 A-B     
@@ -71,6 +71,7 @@
 2579 계단 오르기  
 2587 대표값2     
 2588 곱셈      
+2589 보물섬    
 2605 줄 세우기    
 2606 바이러스    
 2609 최대공약수와 최소공배수     
