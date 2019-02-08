@@ -1,10 +1,10 @@
 # Algorithm
 
-## Total : 195
+## Total : 196
 
 ## Java
 
-### Baekjoon Online Judge : 187
+### Baekjoon Online Judge : 188
 
 1000 A+B      
 1001 A-B     
@@ -126,6 +126,7 @@
 7576 토마토    
 8393 합  
 8958 OX퀴즈     
+9012 괄호    
 9076 점수 집계      
 9084 동전  
 9095 1,2,3 더하기  
