@@ -1,10 +1,10 @@
 # Algorithm
 
-## Total : 197
+## Total : 198
 
 ## Java
 
-### Baekjoon Online Judge : 189
+### Baekjoon Online Judge : 190
 
 1000 A+B      
 1001 A-B     
@@ -124,6 +124,7 @@
 5704 팬그램      
 5717 상근이의 친구들     
 5988 홀수 혹은 짝수   
+7567 그릇   
 7576 토마토    
 8393 합  
 8958 OX퀴즈     
