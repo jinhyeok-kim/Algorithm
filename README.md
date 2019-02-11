@@ -1,10 +1,10 @@
 # Algorithm
 
-## Total : 198
+## Total : 199
 
 ## Java
 
-### Baekjoon Online Judge : 190
+### Baekjoon Online Judge : 191
 
 1000 A+B      
 1001 A-B     
@@ -134,6 +134,7 @@
 9095 1,2,3 더하기  
 9316 Hello Judge    
 9325 얼마?     
+9663 N-Queen    
 10039 평균 점수    
 10093 숫자      
 10101 삼각형 외우기     
