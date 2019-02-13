@@ -1,73 +1,59 @@
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.util.ArrayList;
-import java.util.StringTokenizer;
+import java.util.*;
 
 public class Main {
+
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringTokenizer st = new StringTokenizer(br.readLine());
 
         int N = Integer.parseInt(st.nextToken());
-        ArrayList<Integer> queue = new ArrayList<>();
-
-        for(int i = 1 ; i <= N; i++){
-            queue.add(i);
-        }
-
         int M = Integer.parseInt(st.nextToken());
+
+        CircularQueue cq = new CircularQueue(N);
 
         st = new StringTokenizer(br.readLine());
 
-        int cur = 0;
-        int count = 0;
-
-        for(int i = 0; i < M; i++){
-
-            int poll_num = Integer.parseInt(st.nextToken());
-
-                if(poll_num == queue.get(cur)){
-                    queue.remove(cur);
-                }else{
-                    int j;
-                    for(j = 0; j < queue.size(); j++){
-                        if(queue.get(j) == poll_num){
-                            break;
-                        }
-                    }
-
-
-                    int small = 0;
-
-                    if(j > cur){
-                        if(j - cur <= queue.size() - j + cur){
-                            small = j -cur;
-                        }else{
-                            small = queue.size() - j + cur;
-                        }
-                    }else{
-                        if(cur -j <= queue.size() - cur + j){
-                            small = cur - j;
-                        }else{
-                            small = queue.size() - cur + j;
-                        }
-                    }
-
-                    count += small;
-                    queue.remove(j);
-
-                    if(j == queue.size()){
-                        cur = 0;
-                    }else {
-                        cur = j;
-                    }
-                }
-
-
+        for(int i =0 ; i < M; i++){
+            cq.operate(Integer.parseInt(st.nextToken()));
         }
 
-        System.out.println(count);
+        System.out.println(cq.count());
+    }
 
+    private static class CircularQueue {
+        LinkedList<Integer> list = new LinkedList<>();
+        int count = 0;
+
+        public CircularQueue(int n){
+            for(int i = 1; i <= n; i++){
+                list.add(i);
+            }
+        }
+        public void operate(int i) {
+            while(true) {
+                int num_index = list.indexOf(i);
+                if (num_index == 0) {
+                    list.poll();
+                    break;
+                } else {
+                    if (num_index < list.size() - num_index) {
+                        list.addLast(list.pollFirst());
+                        count++;
+                    } else {
+                        list.addFirst(list.pollLast());
+                        count++;
+                    }
+
+                }
+            }
+        }
+
+        public int count() {
+            return count;
+        }
     }
 }
