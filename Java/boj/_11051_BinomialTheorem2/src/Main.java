@@ -13,7 +13,6 @@ public class Main {
         int N = Integer.parseInt(st.nextToken());
         int K = Integer.parseInt(st.nextToken());
 
-//        System.out.println(combination(N,K));
         bw.write(combination(N,K) + "\n");
 
         bw.flush();
@@ -25,7 +24,7 @@ public class Main {
         if(n == r || r == 0) return 1;
         if(dp[n][r] > 0) return dp[n][r];
 
-        dp[n][r] = (combination(n-1, r-1)%10007 + combination(n-1,r)%10007)%10007;
+        dp[n][r] = (combination(n-1, r-1)+ combination(n-1,r))%10007;
         return dp[n][r];
     }
 }

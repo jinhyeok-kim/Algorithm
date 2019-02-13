@@ -7,13 +7,13 @@ public class Main {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
 
-        dp = new int[100][100];
+        dp = new int[11][11];
 
         StringTokenizer st = new StringTokenizer(br.readLine());
         int N = Integer.parseInt(st.nextToken());
         int K = Integer.parseInt(st.nextToken());
 
-//        System.out.println(combination(N,K));
+
         bw.write(combination(N,K) + "\n");
 
         bw.flush();
@@ -23,7 +23,6 @@ public class Main {
 
     private static int combination(int n, int r) {
         if(n == r || r == 0) return 1;
-        if(dp[n][r] > 0) return dp[n][r];
 
         dp[n][r] = combination(n-1, r-1) + combination(n-1,r);
         return dp[n][r];
