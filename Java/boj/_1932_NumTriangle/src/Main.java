@@ -31,7 +31,6 @@ public class Main {
 
                 if(j == 0){
                     T[((i*i+i)/2)+j] = T[((z*z+z)/2)] + triangle[((i*i+i)/2)];
-
                 }
                 else if(j == i){
                     T[((i*i+i)/2)+j] = T[((z*z+z)/2)+(j-1)] + triangle[((i*i+i)/2)+j];
