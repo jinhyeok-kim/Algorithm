@@ -1,10 +1,10 @@
 # Algorithm
 
-## Total : 201
+## Total : 202
 
 ## Java
 
-### Baekjoon Online Judge : 193
+### Baekjoon Online Judge : 194
  
 1000 A+B      
 1001 A-B     
@@ -101,6 +101,7 @@
 2947 나무 조각     
 2953 나는 요리사다    
 2960 에라토스테네스의 체      
+2965 캥거루 세마리   
 3035 스캐너      
 3046 R2     
 3047 ABC       
