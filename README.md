@@ -1,10 +1,10 @@
 # Algorithm
 
-## Total : 203
+## Total : 204
 
 ## Java
 
-### Baekjoon Online Judge : 195
+### Baekjoon Online Judge : 196
  
 1000 A+B      
 1001 A-B     
@@ -134,7 +134,8 @@
 9012 괄호    
 9076 점수 집계      
 9084 동전  
-9095 1,2,3 더하기  
+9095 1,2,3 더하기   
+9251 LCS   
 9316 Hello Judge    
 9325 얼마?     
 9663 N-Queen    
